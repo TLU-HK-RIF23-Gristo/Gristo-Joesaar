@@ -8,3 +8,5 @@ Käsiskänner -  on elektrooniline seade, mida kasutatakse füüsiliste dokument
 
 
 Allikas: https://www.lifewire.com/scanner-buying-guide-2769187
+
+[Skannerid.pptx](https://github.com/TLUHK-RIF23/Gristo-Joesaar/files/13566389/Skannerid.pptx)
