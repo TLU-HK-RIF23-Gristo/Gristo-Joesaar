@@ -1,2 +1,2 @@
-[Skannerid.pptx](https://github.com/TLUHK-RIF23/Gristo-Joesaar/files/13566389/Skannerid.pptx)
-Allikas: https://www.lifewire.com/
+https://docs.google.com/document/d/1s6A6xCah8TGSWjVl8Zlb3aEFO-yWydJVFlkaSzXc_mY/edit
+
