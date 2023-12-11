@@ -42,15 +42,13 @@ Kui esimesed skannerid suutsid eristada 8 bitti (28), siis hiljem 10 bitti (210)
 
 
 ## Skannerite tüübid (Gristo)
-**Lameskänner** - Depending on its size, a flatbed scanner can fit standard or legal-size documents. The flexible cover allows you to scan large items such as books.
+**Lameskänner** - Olenevalt suurusest mahutab lameskanner standard- või legal-suuruses dokumente. Painduv kate võimaldab skannida ka suuremaid esemeid, näiteks raamatuid.
 
-**Raamatuskänner** – Book scanning or book digitization (also: magazine scanning or magazine digitization) is the process of converting physical books and magazines into digital media such as images, electronic text, or electronic books (e-books) by using an image scanner. Large scale book scanning projects have made many books available online.
+**Raamatuskänner** – Raamatute skaneerimine või raamatute digiteerimine (ka ajakirjade skannimine või ajakirjade digiteerimine) on füüsiliste raamatute ja ajakirjade teisendamine digitaalseks meediaks, nagu pildid, elektrooniline tekst või elektroonilised raamatud (e-raamatud). Suuremahulised raamatute skaneerimise projektid on teinud paljud raamatud internetis kättesaadavaks.
 
-**Fotoskänner**- Many all-purpose scanners scan photos, so you don't need a separate device to handle your photographs. A photo scanner is a better deal if you only use a scanner to digitize film negatives or slides. However, it may be more expensive than an all-purpose scanner.
+**Fotoskänner**- Paljud universaalsed skannerid skannivad fotosid, nii et te ei vaja fotode käsitlemiseks eraldi seadet. Fotoskanneri järgi võib tekkida vajadus, kui kasutate skannerit ainult filminegatiivide või slaidide digiteerimiseks. See võib aga olla kallim kui universaalne skanner.
 
-**Kaasaskantav skänner** - Portable scanners are small enough to bring on the road. Some are small enough to put in a pocket. Portable pen scanners are a bit larger than fountain pens and scan the text of a document line by line.
-
-**3D skänner** - 3D scanning is the process of analyzing a real-world object or environment to collect three dimensional data of its shape and possibly its appearance (e.g. color). The collected data can then be used to construct digital 3D models.
+**Kaasaskantav skänner** - Kaasaskantavad skannerid on piisavalt väikesed, et neid teele kaasa võtta. Mõned on piisavalt väikesed, et neid tasku panna. Kaasaskantavad pliiatsiskannerid on veidi suuremad kui täitesulepead ja skaneerivad rea haaval dokumendi teksti.  
 
 **Käsiskänner** - on kõige levinum vöötkoodilugeja, mida kasutatakse peaaegu kõigis rakendustes, alates kauplustest kuni kontorikeskkondade, ladude ja pagasi/reisijate käitlemise protsessideni lennujaamades. Vöötkoodiskanner kasutab prinditud vöötkoodide skannimiseks ja digitaalselt printimiseks valguskiiri. Seejärel dekrüpteerib andmed ja saadab andmed arvutisse.
 
